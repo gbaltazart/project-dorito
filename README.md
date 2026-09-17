@@ -1,1 +1,7 @@
-Project dorito is the start of a workout app with a focus on group gym sessions
+# Group workout tracker
+Workout app with a focus on group gym sessions
+
+## .ENV File
+```conf
+TUNNEL_TOKEN=<cloudflare token>
+```
